@@ -1,3 +1,4 @@
+// src/notifications.js
 export default [
   {
     "id": 1,
@@ -24,4 +25,4 @@ export default [
     "name": "Beverly Santana",
     "message": "Qui excepteur est laboris dolor ad officia in deserunt ipsum."
   }
-]
+];
